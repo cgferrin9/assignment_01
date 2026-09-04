@@ -1,23 +1,24 @@
 Assignment #1 was very helpful in many different ways. One of the ways
-in which it was most helpful however, was that it helped me 
-get familiar with using GitHub. I was introduced to running
-tests, debugging, how to push, fork, and just learning the layout.
-Because of this assignment, I now feel confident using GitHub
-for future assignments and projects. 
+in which it was most helpful, however, was that it helped me get familiar
+with using GitHub. I was introduced to running tests, debugging, how to
+push, fork, and just learning the layout. Because of this assignment, I
+now feel more confident using GitHub for future assignments and projects.
 
-On the more technical 
-side of this reflection, I learned how different functions work together
-and how tests can be used to find mistakes in my code. 
-For example, with grand_total(), one of my tests failed, which helped 
-me realize that my function was not returning the correct value
-I also learned how to use breakpoints and the debugger to see 
-what was happening in my code instead of just guessing what was wrong.
-Another thing I learned was how small mistakes can affect an entire program.
-When working on console.py, when using subtotal instead of total, it 
-caused the integration test to fail. his helped me understand the difference 
-between unit tests and integration tests and why both are important.
-Overall, this assignmeant helped me become more comfortable with Python, 
-testing, debugging,and GitHub, and I feel more prepared to use these skills in 
-future assignments and projects.
+On the more technical side of this reflection, I learned how different
+functions work together and how unit tests and integration tests can be
+used to find mistakes in my code. For example, when working on
+grand_total(), one of my tests failed because my function was not
+returning the expected value. I learned to look at the assertion to
+understand what was wrong instead of just guessing. I also learned how a
+small mistake can affect an entire program. When I used subtotal instead
+of total in console.py, it caused the integration test to fail.
+
+The part I struggled with most was using the debugger. I understood how
+to set a breakpoint, but I was sometimes unsure what to look for when the
+program paused and when to use one. I want more practice using the debugger to follow my
+variables and understand how my code is running. On future assignments, I
+want to use a breakpoint and step through my code when a test fails before
+changing my code. Overall, this assignment helped me become more
+comfortable with Python, testing, debugging, and GitHub.
 
 

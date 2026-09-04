@@ -4,4 +4,24 @@ See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
 
 
-This assignment was pretty easy. I learned some Python and made the tip calculator work. The tests were kind of annoying but I got them to pass. I don't really have any questions.
+Assignment #1 was very helpful in many different ways. One of the ways
+in which it was most helpful however, was that it helped me 
+get familiar with using GitHub. I was introduced to running
+tests, debugging, how to push, fork, and just learning the layout.
+Because of this assignment, I now feel confident using GitHub
+for future assignments and projects. On the more technical 
+side of this reflection, learned how different functions work together
+and how tests can be used to find mistakes in my code. 
+For example, with grand_total(), one of my tests failed, which helped 
+me realize that my function was not returning the correct value
+I also learned how to use breakpoints and the debugger to see 
+what was happening in my code instead of just guessing what was wrong.
+Another thing I learned was how small mistakes can affect an entire program.
+When working on console.py, when using subtotal instead of total, it 
+caused the integration test to fail. his helped me understand the difference 
+between unit tests and integration tests and why both are important.
+t. Overall, this assignmeant helped me become more comfortable with Python, 
+testing, debugging,and GitHub, and I feel more prepared to use these skills in 
+future assignments and projects.
+
+

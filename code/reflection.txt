@@ -8,17 +8,19 @@ On the more technical side of this reflection, I learned how different
 functions work together and how unit tests and integration tests can be
 used to find mistakes in my code. For example, when working on
 grand_total(), one of my tests failed because my function was not
-returning the expected value. I learned to look at the assertion to
-understand what was wrong instead of just guessing. I also learned how a
-small mistake can affect an entire program. When I used subtotal instead
-of total in console.py, it caused the integration test to fail.
+returning the expected value. I learned to read the assertion and use it
+to understand what was wrong instead of just guessing. I also learned
+how a small mistake can affect an entire program. When I used subtotal
+instead of total in console.py, it caused the integration test to fail.
 
-The part I struggled with most was using the debugger. I understood how
-to set a breakpoint, but I was sometimes unsure what to look for when the
-program paused. I want more practice using the debugger to follow my
-variables and understand how my code is running. For future assignments,
-I will use a breakpoint and step through my code when a test fails before
-changing my code. I will also practice reading the assertion and checking
-my variables to find where the error is coming from. Overall, this
-assignment helped me become more comfortable with Python, testing,
-debugging, and GitHub.
+I also noticed that I was making progress understanding GitHub throughout the assignment. At the
+beginning, I was not very comfortable with GitHub or debugging, but by
+the end I was able to run tests, identify errors, fix my code, and push
+my changes to GitHub. The part I still struggle with most however is the
+debugger, especially knowing what to look for when my code is paused.
+For future assignments, I want to practice using breakpoints and
+stepping through my code when a test fails. I also want to practice
+checking my variables and reading the error message before changing my
+code. Overall, this assignment helped me become more comfortable with
+Python, testing, debugging, and GitHub, and I feel more prepared to use
+these skills in future assignments and projects.
